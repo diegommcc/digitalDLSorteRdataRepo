@@ -4,5 +4,5 @@ Depends: R (>= 4.0.0)
 Imports: methods, SingleCellExperiment, SummarizedExperiment, zinbwave, splatter
 Suggests: testthat (>= 3.0.0)
 License: GPL-3
-MD5sum: fe96bf8dd08b5ba5033f97eed775b380
+MD5sum: af28ddf892b04f2e4cae1d322382541d
 NeedsCompilation: no
